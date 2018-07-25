@@ -1,0 +1,19 @@
+{
+  "name": "yo-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilkumarpn/yo-repository.git"
+  },
+  "author": "Senthil Kumar P <sentthill@gmail.com> (https://github.com/senthilkumarpn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthilkumarpn/yo-repository/issues"
+  },
+  "homepage": "https://github.com/senthilkumarpn/yo-repository#readme"
+}
